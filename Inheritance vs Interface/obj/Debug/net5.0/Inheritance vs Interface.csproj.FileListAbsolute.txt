@@ -1,0 +1,16 @@
+E:\Programming\7.Repos\Tim Cory-Advanced Topics\Inheritance vs Interface\obj\Debug\net5.0\Inheritance vs Interface.csproj.AssemblyReference.cache
+E:\Programming\7.Repos\Tim Cory-Advanced Topics\Inheritance vs Interface\obj\Debug\net5.0\Inheritance vs Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\7.Repos\Tim Cory-Advanced Topics\Inheritance vs Interface\obj\Debug\net5.0\Inheritance vs Interface.AssemblyInfoInputs.cache
+E:\Programming\7.Repos\Tim Cory-Advanced Topics\Inheritance vs Interface\obj\Debug\net5.0\Inheritance vs Interface.AssemblyInfo.cs
+E:\Programming\7.Repos\Tim Cory-Advanced Topics\Inheritance vs Interface\obj\Debug\net5.0\Inheritance vs Interface.csproj.CoreCompileInputs.cache
+E:\Programming\7.Repos\Tim Cory-Advanced Topics\Inheritance vs Interface\bin\Debug\net5.0\Inheritance vs Interface.exe
+E:\Programming\7.Repos\Tim Cory-Advanced Topics\Inheritance vs Interface\bin\Debug\net5.0\Inheritance vs Interface.deps.json
+E:\Programming\7.Repos\Tim Cory-Advanced Topics\Inheritance vs Interface\bin\Debug\net5.0\Inheritance vs Interface.runtimeconfig.json
+E:\Programming\7.Repos\Tim Cory-Advanced Topics\Inheritance vs Interface\bin\Debug\net5.0\Inheritance vs Interface.runtimeconfig.dev.json
+E:\Programming\7.Repos\Tim Cory-Advanced Topics\Inheritance vs Interface\bin\Debug\net5.0\Inheritance vs Interface.dll
+E:\Programming\7.Repos\Tim Cory-Advanced Topics\Inheritance vs Interface\bin\Debug\net5.0\ref\Inheritance vs Interface.dll
+E:\Programming\7.Repos\Tim Cory-Advanced Topics\Inheritance vs Interface\bin\Debug\net5.0\Inheritance vs Interface.pdb
+E:\Programming\7.Repos\Tim Cory-Advanced Topics\Inheritance vs Interface\obj\Debug\net5.0\Inheritance vs Interface.dll
+E:\Programming\7.Repos\Tim Cory-Advanced Topics\Inheritance vs Interface\obj\Debug\net5.0\ref\Inheritance vs Interface.dll
+E:\Programming\7.Repos\Tim Cory-Advanced Topics\Inheritance vs Interface\obj\Debug\net5.0\Inheritance vs Interface.pdb
+E:\Programming\7.Repos\Tim Cory-Advanced Topics\Inheritance vs Interface\obj\Debug\net5.0\Inheritance vs Interface.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b5c18c6b-51fc-4310-a8b8-e49b0b768712": {
+      "ProjectGuid": "b5c18c6b-51fc-4310-a8b8-e49b0b768712",
+      "DisplayName": "Inheritance vs Interface",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "eab8f62e-47ed-41c3-8605-72891aa81164": {
+      "ProjectGuid": "eab8f62e-47ed-41c3-8605-72891aa81164",
+      "DisplayName": "Inheritance vs Interface",
+      "ColorIndex": 1
+    },
+    "5653aa89-1779-4dec-8ba3-4fe3f214d24a": {
+      "ProjectGuid": "5653aa89-1779-4dec-8ba3-4fe3f214d24a",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 2
+    },
+    "8ced3d08-b7cf-4b0f-84f1-7b7f23ab1f25": {
+      "ProjectGuid": "8ced3d08-b7cf-4b0f-84f1-7b7f23ab1f25",
+      "DisplayName": "Delegate",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

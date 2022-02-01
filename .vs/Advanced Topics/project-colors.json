@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8ced3d08-b7cf-4b0f-84f1-7b7f23ab1f25": {
+      "ProjectGuid": "8ced3d08-b7cf-4b0f-84f1-7b7f23ab1f25",
+      "DisplayName": "Delegate",
+      "ColorIndex": 0
+    },
+    "5653aa89-1779-4dec-8ba3-4fe3f214d24a": {
+      "ProjectGuid": "5653aa89-1779-4dec-8ba3-4fe3f214d24a",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
